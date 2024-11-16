@@ -3,4 +3,5 @@
     <string name="check_bills">账单</string>
     <string name="add_bill">记录</string>
     <string name="mine">我的</string>
+    <string name="wip">页面仍在开发中……</string>
 </resources>

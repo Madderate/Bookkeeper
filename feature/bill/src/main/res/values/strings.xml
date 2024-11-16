@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bill_pay_type_alipay">支付宝</string>
+    <string name="bill_pay_type_wechat">微信</string>
+    <string name="bill_pay_type_credit_card">信用卡</string>
+    <string name="bill_pay_type_unknown">未知的支付方式</string>
+</resources>

@@ -25,5 +25,6 @@ dependencyResolutionManagement {
 rootProject.name = "feature"
 
 include(
-    "home"
+    "home",
+    "bill"
 )

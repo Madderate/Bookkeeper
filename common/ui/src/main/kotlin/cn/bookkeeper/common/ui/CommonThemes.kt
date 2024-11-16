@@ -16,16 +16,15 @@ import androidx.compose.ui.platform.LocalContext
  * email: liaojianzengzhi@gmail.com
  */
 internal val LightColorScheme = lightColorScheme(
-    primary = ColorF1C40F,
-    secondary = ColorF39C12,
-    background = ColorEFEBE9
-
+    primary = ColorPrimary,
+    secondary = ColorSecondary,
+    background = ColorBackground,
 )
 
 internal val DarkColorScheme = darkColorScheme(
-    primary = ColorE74C3C,
-    secondary = ColorC0392B,
-    background = Color4E342E
+    primary = ColorPrimaryDark,
+    secondary = ColorSecondaryDark,
+    background = ColorBackgroundDark
 )
 
 @Composable
